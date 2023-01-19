@@ -1,0 +1,15 @@
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.deps.json
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.runtimeconfig.json
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.dll
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/bin/Debug/net7.0/deliverable2.pdb
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.AssemblyReference.cache
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfoInputs.cache
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.AssemblyInfo.cs
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.csproj.CoreCompileInputs.cache
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.dll
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/refint/deliverable2.dll
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.pdb
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/deliverable2.genruntimeconfig.cache
+/Users/dominiquemamazza/Projects/deliverable2/deliverable2/obj/Debug/net7.0/ref/deliverable2.dll
